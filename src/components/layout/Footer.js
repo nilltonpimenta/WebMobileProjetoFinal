@@ -1,8 +1,8 @@
-import styles from './Footer.css'
+import styles from "./Footer.css";
 
 function Footer() {
   return (
-    <footer className='rodape'>
+    <footer className="rodape">
       <div>
         <p>Rodapé</p>
       </div>
@@ -10,4 +10,4 @@ function Footer() {
   );
 }
 
-export default Footer
+export default Footer;
