@@ -1,0 +1,22 @@
+
+/*navbar*/
+
+#navbar{
+    background: linear-gradient(180deg, #033E09 13.36%, rgba(40, 132, 33, 0.705009) 52.08%, rgba(119, 194, 100, 0.34) 100%);
+}
+
+.container{
+    max-width: 100%;
+}
+
+#logo{
+    width: 200px;
+}
+
+#navbarNav{
+    justify-content: right;
+}
+
+.nav-link:hover {
+    color: rgb(228, 18, 70);
+}
