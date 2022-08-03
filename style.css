@@ -2,11 +2,7 @@
 /*navbar*/
 
 #navbar{
-    background: linear-gradient(180deg, #033E09 13.36%, rgba(40, 132, 33, 0.705009) 52.08%, rgba(119, 194, 100, 0.34) 100%);
-}
-
-.container{
-    max-width: 100%;
+    background: linear-gradient(180deg, #0e801a 13.36%, rgba(122, 199, 116, 0.705) 52.08%, rgba(156, 192, 147, 0.34) 100%);
 }
 
 #logo{
@@ -17,6 +13,13 @@
     justify-content: right;
 }
 
+.nav-link{
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 1em;
+}
+
 .nav-link:hover {
     color: rgb(228, 18, 70);
 }
+
