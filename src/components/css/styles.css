@@ -306,6 +306,12 @@ header,
   text-shadow: 0.1em 0.1em 0.2em black;
 }
 
+.labels {
+  color: white;
+    font-weight: bold;
+    font-size: 12px;
+}
+
 /* Footer */
 
 #contact-area {
@@ -549,6 +555,5 @@ header,
     border: none;
     margin-bottom: 0;
   }
-  
 
 }
